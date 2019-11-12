@@ -1,0 +1,15 @@
+c:\users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\bin\Debug\TestConsol.exe.config
+c:\users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\bin\Debug\TestConsol.exe
+c:\users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\bin\Debug\TestConsol.pdb
+c:\users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\obj\Debug\TestConsol.exe
+c:\users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\obj\Debug\TestConsol.pdb
+C:\Users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\bin\Debug\AWSSDK.dll
+C:\Users\권순창\documents\visual studio 2013\Projects\TestConsol\TestConsol\bin\Debug\AWSSDK.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\TestConsol\TestConsol\obj\Debug\TestConsol.csprojResolveAssemblyReference.cache
+D:\02.TestSource\Aop test\TestConsol\bin\Debug\TestConsol.exe.config
+D:\02.TestSource\Aop test\TestConsol\obj\Debug\TestConsol.exe
+D:\02.TestSource\Aop test\TestConsol\obj\Debug\TestConsol.pdb
+D:\02.TestSource\Aop test\TestConsol\bin\Debug\TestConsol.exe
+D:\02.TestSource\Aop test\TestConsol\bin\Debug\TestConsol.pdb
+D:\02.TestSource\Aop test\TestConsol\bin\Debug\AWSSDK.pdb
+D:\02.TestSource\Aop test\TestConsol\obj\Debug\TestConsol.csprojResolveAssemblyReference.cache
